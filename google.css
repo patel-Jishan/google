@@ -1,0 +1,168 @@
+body{
+height:100vh;
+background:url(https://lh3.googleusercontent.com/XvHPiinraOndytR3sPhP3ra3xTnygCb517FEvg3LtNWOI3HnXcx3dGwgLgO-ndh_LR32MJUp7ltjIp5b5eoiWaVjIeE=s1280-w1280-h800);
+background-size:100% 100%;
+background-position:center;
+background-repeat:no-repeat;
+}
+
+
+
+
+.div1{
+   height:50px;
+   width:1000px;
+   position:absolute;
+   top:400px;
+   left:450px;
+   border-radius:200px 200px 200px 200px;
+   background-color:white;
+   box-shadow:0 0 5px;
+   }
+ .div2{
+     width:70px;
+	 height:70px;
+	 background-color:black;
+	 position:absolute;
+	 border-radius:50%;
+	 opacity:0.1;
+	 left:300px;
+	 top:100px;
+	 }
+.div4{
+     width:70px;
+	 height:70px;
+	 background-color:black;
+	 position:absolute;
+	 border-radius:50%;
+	 opacity:0.1;
+	 left:450px;
+	 top:100px;
+	 }
+	 
+.div3{
+     width:70px;
+	 height:70px;
+	 background-color:black;
+	 position:absolute;
+	 border-radius:50%; 
+	 opacity:0.1;
+	 left:600px;
+	 top:100px;
+	 }
+h1{
+  font-size:120px;
+  margin-top:-200px;
+  margin-left:-190px;
+  color:rgb(0,129,255);
+  z-index:5;
+  }
+ h2{
+    font-size:120px;
+  margin-top:-220px;
+  margin-left:-29px;
+  color:rgb(255,61,71);
+  z-index:5;
+  }
+ h3{
+    font-size:120px;
+  margin-top:-238px;
+  margin-left:90px;
+  color:rgb(255,183,71);
+  z-index:5;
+  }
+ h4{
+    font-size:120px;
+  margin-top:-257px;
+  margin-left:246px;
+  color:rgb(0,129,255);
+  z-index:5;
+  }
+ h5{
+    font-size:120px;
+  margin-top:-297px;
+  margin-left:379px;
+  color:rgb(55,178,117);
+  z-index:5;
+  }
+ h6{
+    font-size:120px;
+  margin-top:-339px;
+  margin-left:462px;
+  color:rgb(255,61,71);
+  z-index:5;
+  }
+  h7{
+    font-size:20px;
+  margin-top:-207px;
+  margin-left:-109px;
+  position:absolute;
+  color:gray;
+  z-index:5;
+  }
+ .ri-search-line{
+ color:gray;
+ font-size:25px;
+ position:absolute;
+ top:13px;
+ left:20px;
+ }
+ .ri-mic-fill{
+ color:gray;
+ font-size:25px;
+ position:absolute;
+ top:13px;
+ left:900px;
+ }
+ .ri-camera-fill{
+ color:gray;
+ font-size:25px;
+ position:absolute;
+ top:12px;
+ left:950px;
+ }
+ .ri-netflix-fill{
+ color:red;
+ font-size:40px;
+ position:absolute;
+ top:115px;
+ left:315px;
+ }
+ .ri-facebook-circle-fill{
+ color:rgb(0,129,255);
+ font-size:40px;
+ position:absolute;
+ top:113px;
+ left:465px;
+ }
+ .ri-add-fill{
+ color:yellow;
+ font-size:40px;
+ position:absolute;
+ top:113px;
+ left:615px;
+ }
+ .div5{
+    color:black;
+	font-weight:5px;
+	font-size:25px;
+  position:absolute;
+  top:180px;
+  left:300px;
+  }
+ .div6{
+    color:black;
+	font-weight:5px;
+	font-size:25px;
+  position:absolute;
+  top:180px;
+  left:437px;
+  }
+ .div7{
+    color:black;
+	font-weight:5px;
+	font-size:25px;
+  position:absolute;
+  top:180px;
+  left:584px;
+  }
